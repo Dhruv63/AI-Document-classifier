@@ -41,4 +41,4 @@ This project demonstrates the ability to classify whether an uploaded image is o
 ## 🚀 Live Demo
 
 👉 Try it locally by uploading `index.html`, `model.json`, `weights.bin`, and assets to a browser or GitHub Pages!
-
+Website link https://documentclassifier.netlify.app/
